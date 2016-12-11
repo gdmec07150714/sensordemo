@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="accelerometer" type="id" />
+    <item name="orientation" type="id" />
+    <item name="light" type="id" />
+</resources>
